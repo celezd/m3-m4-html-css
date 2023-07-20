@@ -1,0 +1,33 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    color: #04146c;
+}
+
+h3 {
+    font-weight: 900;
+    font-size: 37px;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 21px;
+    color: #0a2ff1;
+}
+
+p {
+    font-weight: 400;
+    font-size: 20px;
+    width: 40%;
+    margin: 0 0 0 70px;
+}
+
+img {
+    width: 55px;
+    margin-right: 15px;
+    vertical-align: middle;
+    
+}
+
+div {
+    display: flex;
+}
