@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+   
+}
+
+
+
+ div {
+    width: 600px;
+     margin: auto;
+     text-align: center;
+     border: 1px solid #c3cbf3;
+     padding: 15px 48px 15px 48px;
+     
+     
+     
+} 
+
+input, button {
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+
+input {
+    font-size: 19px;
+    color: #414166;
+    font-weight: 400;
+}
+
+button {
+    font-size: 20px;
+    color: white;
+    background-color: #0a2ff1;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+}
+
+ 
+ p {
+    font-weight: 700;
+    font-size: 24px;
+    color: #04146c;
+    margin-bottom: 15px;
+ }
+
+ a {
+    font-size: 19px;
+    color: #0a2ff1;
+    text-decoration: none;
+    display: block;
+    margin: 15px;
+ }
