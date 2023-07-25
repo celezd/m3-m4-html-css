@@ -1,0 +1,46 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+p {
+    display: inline;
+    margin-right: 10px;
+}
+
+#titulo {
+    font-weight: 700;
+    font-size: 67px;
+    color: #0a2ff1;
+}
+
+#subtit {
+    color: #0a2ff1;
+    font-size: 30px;
+    background-color: #eff2ff;
+}
+span {
+    font-weight: 700
+}
+
+button {
+    margin-bottom: 10px;
+    margin-top: 30px;
+    padding: 10px;
+
+    font-size: 30px;
+   background-color: #8a9af1;
+   color: white;
+   border: none;
+   cursor: pointer;
+}
+
+img {
+    width: 30%;
+}
+
+hr {
+    height: 5px;
+    background-color: #3ffff3;
+    border: none;
+}
